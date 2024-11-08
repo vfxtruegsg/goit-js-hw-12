@@ -121,6 +121,8 @@ ul {
   position: fixed;
   top: 50%;
   left: 46%;
+  display: flex;
+  flex-direction: column;
   opacity: 0;
   width: 8px;
   height: 48px;
